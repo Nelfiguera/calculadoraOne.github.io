@@ -44,7 +44,6 @@ class Display {
         this.displayValorActual.textContent = this.valorActual;
         this.displayValorAnterior.textContent = this.valorAnterior;
 
-       /*this.displayValorAnterior.textContent = "${this.valorAnterior} ${this.signos[this.tipoOperacion] || ""}";*/
     }
 
     /* Desde display vamos a darle a la calculadora para que haga cálculos.*/ 
